@@ -18,5 +18,7 @@ CLIP7 'https://youtu.be/AgZBK97SmGA'
 
 CLIP8 'https://youtu.be/e4Ly2hBNIo8'
 
+CLIP9 'https://youtu.be/ikqB2luAxjk'
+
 ![alt text](https://miro.medium.com/max/1592/1*WY7ELhXIVxbGlUwmhA1PSw.jpeg)
 
